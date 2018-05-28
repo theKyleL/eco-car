@@ -1,0 +1,9 @@
+This is a dummy file to test that each user is able to commit to the 
+bitBucket repo. Add your name to the list tomorrow to confirm successful 
+installation and setup.
+
+
+Kyle Latino
+Austin Musser
+Brandon Kent
+Weylin MacCalla

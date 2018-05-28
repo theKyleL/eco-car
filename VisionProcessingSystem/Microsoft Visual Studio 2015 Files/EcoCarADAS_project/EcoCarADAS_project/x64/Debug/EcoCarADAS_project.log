@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  StopSignFinder.cpp
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stopsignfinder.cpp(382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stopsignfinder.cpp(482): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stopsignfinder.cpp(483): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stopsignfinder.cpp(484): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stopsignfinder.cpp(485): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  StereoVideoCapture.cpp
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\stereovideocapture.cpp(508): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  LaneLineFinder.cpp
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\lanelinefinder.cpp(187): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EcoCarADAS_project.cpp
+  DataTransmitter.cpp
+  Generating Code...
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\datatransmitter.cpp(94): warning C4715: 'DataTransmitter::getDataOutPort': not all control paths return a value
+c:\users\kyle\documents\visual studio 2015\projects\ecocaradas\visionprocessingsystem\microsoft visual studio 2015 files\ecocaradas_project\ecocaradas_project\datatransmitter.cpp(185): warning C4715: 'DataTransmitter::getTransmitterThread': not all control paths return a value
+  EcoCarADAS_project.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ecocaradas\VisionProcessingSystem\Microsoft Visual Studio 2015 Files\EcoCarADAS_project\x64\Debug\EcoCarADAS_project.exe
+  EcoCarADAS_project.vcxproj -> C:\Users\Kyle\Documents\Visual Studio 2015\Projects\ecocaradas\VisionProcessingSystem\Microsoft Visual Studio 2015 Files\EcoCarADAS_project\x64\Debug\EcoCarADAS_project.pdb (Full PDB)
